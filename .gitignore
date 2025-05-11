@@ -5,3 +5,4 @@ __pycache__/
 .env
 venv/
 data/processed/cleaned_creditcard.csv
+fiery-aspect-449612-f9-738f04da3538.json 
