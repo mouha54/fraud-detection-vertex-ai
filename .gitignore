@@ -4,3 +4,4 @@ __pycache__/
 *.json
 .env
 venv/
+data/processed/cleaned_creditcard.csv
